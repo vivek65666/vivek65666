@@ -44,8 +44,7 @@ A cloud-hosted system for managing attendance with real-time tracking, reporting
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&theme=github_dark)
 ---
 
 ## 🔥 GitHub Streak
