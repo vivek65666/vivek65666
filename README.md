@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7A3FFF&width=500&lines=Hey+i+am+Vivek C Raj](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7A3FFF&width=500&lines=Hey+i+am+Vivek C Raj)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Vivek C Raj
 
