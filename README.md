@@ -33,13 +33,25 @@ I enjoy designing scalable systems, automating workflows, and building real-worl
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 🐱 Pokemon Viewer
-A responsive web application built using **HTML, CSS, JavaScript, and PokeAPI** to display Pokémon data dynamically.
+## ☁ AWS S3 Static Website Hosting
 
-### 🔹 ☁️ Cloud-Based Attendance Management System
-A cloud-hosted system for managing attendance with real-time tracking, reporting, and scalable architecture design.
+- Hosted a static website using Amazon S3
+- Configured bucket policies and public access
+- Implemented static website hosting
+- Optional CloudFront integration
+- GitHub: https://github.com/vivek65666/aws-s3-static-website
+
+---
+
+## 🐳 Docker Web Application
+
+- Containerized a web application using Docker
+- Built custom Docker images
+- Managed containers efficiently
+- GitHub:
+https://github.com/vivek65666/docker-webapp
 
 ---
 
