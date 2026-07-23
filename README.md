@@ -1,146 +1,327 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7A3FFF&width=350&lines=Hey%2C+I'm+Vivek)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Vivek C Raj</h1>
 
-# Hi 👋, I'm Vivek C Raj
+<h3 align="center">
+Software Engineer | Backend Developer | Cloud & DevOps Enthusiast | AI Explorer
+</h3>
 
-🚀 MCA Student | ☁️ Cloud Enthusiast | 🤖 AI Enthusiast | ⚙️ Aspiring DevOps Engineer
+<p align="center">
+Building scalable backend applications, cloud infrastructure, and AI-powered solutions.
+</p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;AI+Explorer;Always+Learning+New+Technologies" />
+</p>
 
-## 🌟 About Me
-
-I am a passionate MCA student focused on building a strong career in **Artificial Intelligence, Cloud Computing, DevOps, and Software Engineering**.
-
-I enjoy building AI-powered applications, designing scalable cloud solutions, automating workflows, and solving real-world problems through technology.
-
-- 🌱 Currently learning AI, AWS, Docker, Kubernetes & DevOps
-- 🤖 Exploring Generative AI, LLMs & Prompt Engineering
-- 💻 Skilled in Java, Python, JavaScript, HTML, CSS
-- ☁️ Interested in Cloud Architecture & Automation
-- 🔧 Passionate about building real-world projects
-- 🤝 Open to internships and collaborations
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vivek65666&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 🤖 AI & Generative AI
+# 👨‍💻 About Me
 
-- 🧠 Building AI-powered applications using Large Language Models (LLMs)
-- 📄 Developed an AI Resume Analyzer
-- 💬 Built an AI PDF Chatbot using Retrieval-Augmented Generation (RAG)
-- 🤖 Exploring Prompt Engineering and AI Automation
-- 🚀 Continuously learning modern AI frameworks and tools
+🎓 MCA Final Year Student (2026)
+
+💻 Passionate about Software Engineering, Backend Development, Cloud Computing and DevOps.
+
+🚀 I enjoy building scalable backend applications, REST APIs, cloud-based solutions and AI-powered projects.
+
+🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- CI/CD Pipelines
+- System Design
+- Generative AI
+- Large Language Models (LLMs)
+
+🎯 Career Interests
+
+- Software Engineering
+- Backend Development
+- Cloud Engineering
+- DevOps
+- Artificial Intelligence
+
+🤝 Open to
+
+- Software Engineer Roles
+- Backend Developer Roles
+- Cloud Engineer Roles
+- DevOps Engineer Roles
+- Internship Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Languages
 
-![Skills](https://skillicons.dev/icons?i=java,python,javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
-### 🤖 AI & Machine Learning
+---
 
-![Skills](https://skillicons.dev/icons?i=python)
+## ⚙ Backend Development
 
-**AI Tools & Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+---
+
+## ☁ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+AWS Services
+
+- EC2
+- S3
+- IAM
+- VPC
+- CloudWatch
+
+---
+
+## 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux" />
+</p>
+
+---
+
+## 🤖 AI & Generative AI
 
 - OpenAI API
-- LangChain
-- Streamlit
-- FAISS
-- Hugging Face
 - Prompt Engineering
+- LangChain
+- FAISS
+- Streamlit
 - Retrieval-Augmented Generation (RAG)
-
-### 🌐 Web Development
-
-![Skills](https://skillicons.dev/icons?i=html,css)
-
-### ☁️ Cloud & DevOps
-
-![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins)
-
-### 🧰 Tools & Platforms
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)
+- Hugging Face
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Analyzer
+## 📦 Inventory Management Backend
 
-- AI-powered resume analysis and feedback
-- ATS-friendly resume evaluation
-- Skill gap identification
-- Built using Python and AI APIs
+A secure RESTful Inventory Management API built with FastAPI.
 
-🔗 GitHub:
-https://github.com/vivek65666/ai-resume-analyzer
+### Features
+
+- JWT Authentication
+- CRUD Operations
+- SQLAlchemy ORM
+- Inventory Tracking
+- SQLite Database
+- REST APIs
+
+**Tech Stack**
+
+FastAPI • SQLAlchemy • JWT • SQLite
+
+🔗 Repository
+
+https://github.com/vivek65666/inventory-management-backend
 
 ---
 
-## 💬 AI PDF Chatbot
+## 🔗 URL Shortener
 
-- Chat with PDF documents using AI
-- Retrieval-Augmented Generation (RAG)
-- Semantic search with vector embeddings
-- Built using Python, LangChain, FAISS & Streamlit
+A scalable URL shortening service built with Spring Boot.
 
-🔗 GitHub:
-https://github.com/vivek65666/pdf-ai-chatbot
+### Features
+
+- Generate Short URLs
+- Redirect URLs
+- REST APIs
+- MySQL Database
+
+**Tech Stack**
+
+Java • Spring Boot • MySQL
+
+🔗 Repository
+
+https://github.com/vivek65666/url-shortener
 
 ---
 
-## ☁ AWS S3 Static Website Hosting
+## 🌦 Weather Forecast Application
 
-- Hosted a static website using Amazon S3
-- Configured bucket policies and public access
-- Implemented static website hosting
-- Optional CloudFront integration
+Full-stack weather application with real-time weather information.
 
-🔗 GitHub:
+### Features
+
+- Search Weather
+- Live API Integration
+- Responsive UI
+- REST Backend
+
+**Tech Stack**
+
+Next.js • TypeScript • Express.js
+
+---
+
+## ☁ AWS Static Website Hosting
+
+Hosted a static website using Amazon S3.
+
+### Features
+
+- Static Website Hosting
+- Bucket Policies
+- Public Access Configuration
+- IAM Configuration
+
+**Tech Stack**
+
+AWS S3 • IAM
+
+🔗 Repository
+
 https://github.com/vivek65666/aws-s3-static-website
 
 ---
 
-## 🐳 Docker Web Application
+## 📋 Task Management System
 
-- Containerized a web application using Docker
-- Built custom Docker images
-- Managed containers efficiently
+Task management backend for organizing projects and daily tasks.
 
-🔗 GitHub:
-https://github.com/vivek65666/docker-webapp
+**Tech Stack**
 
----
+Java • Spring Boot • MySQL
 
-## 📊 GitHub Stats
+🔗 Repository
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&theme=github_dark)
+https://github.com/vivek65666/task-management-system
 
 ---
 
-## 🔥 GitHub Streak
+## 🤖 AI Operations Portfolio
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vivek65666&theme=tokyonight)
+Collection of AI Prompt Engineering, Data Annotation and AI Quality Evaluation projects.
 
----
+**Highlights**
 
-## 🏆 Highlights
+- Prompt Engineering
+- AI Response Evaluation
+- Human-in-the-Loop
+- Data Annotation
 
-- 🎓 MCA Final Year Student
-- 🤖 AI & Generative AI Enthusiast
-- ☁️ Cloud & DevOps Enthusiast
-- ⚙️ Passionate about Automation
-- 🚀 Building AI + Cloud Projects for real-world impact
+🔗 Repository
 
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/vivek-c-raj
-- 💻 GitHub: https://github.com/vivek65666
+https://github.com/vivek65666/AI-Operations-Portfolio
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 🚀 Currently Working On
+
+- Backend APIs using FastAPI & Spring Boot
+- Kubernetes
+- Terraform
+- CI/CD Pipelines
+- AWS Cloud Projects
+- AI & RAG Applications
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek65666&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek65666&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek65666&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vivek65666&theme=onedark&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Spring Boot
+- Kubernetes
+- Terraform
+- Docker Compose
+- CI/CD Automation
+- AWS Best Practices
+- System Design
+- Data Structures & Algorithms
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+💼 LinkedIn
+
+https://linkedin.com/in/vivek-c-raj
+
+💻 GitHub
+
+https://github.com/vivek65666
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+> "I enjoy transforming ideas into scalable software through backend engineering, cloud technologies, automation, and AI."
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+Thanks for visiting my profile! 😊
+
+</p>
