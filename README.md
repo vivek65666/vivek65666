@@ -1,327 +1,155 @@
-<h1 align="center">Hi 👋, I'm Vivek C Raj</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Backend Developer | Cloud & DevOps Enthusiast | AI Explorer
-</h3>
+# 👋 Hi, I'm Vivek C Raj
 
-<p align="center">
-Building scalable backend applications, cloud infrastructure, and AI-powered solutions.
+### Software Engineer | Cloud & DevOps Enthusiast | Backend Developer
+
+<p>
+Building backend applications, AWS cloud infrastructure, CI/CD pipelines,
+containerized applications, automation, and AI-powered solutions.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;AI+Explorer;Always+Learning+New+Technologies" />
+<p>
+<a href="https://github.com/vivek65666">
+<img src="https://img.shields.io/badge/GitHub-vivek65666-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/vivek-c-raj">
+<img src="https://img.shields.io/badge/LinkedIn-Vivek%20C%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vivek65666&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Cloud+%26+DevOps+Enthusiast;Backend+Developer;AWS+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=vivek65666&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/vivek65666?label=Followers&style=flat"/>
 </p>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 MCA Final Year Student (2026)
+🎓 **MCA Final Year Student — 2026**
 
-💻 Passionate about Software Engineering, Backend Development, Cloud Computing and DevOps.
+💻 Software Engineer focused on **Backend Development, Cloud Computing, DevOps and Automation**.
 
-🚀 I enjoy building scalable backend applications, REST APIs, cloud-based solutions and AI-powered projects.
+☁️ Hands-on with **AWS, Linux, Docker, Jenkins, Git and CI/CD concepts**.
 
-🌱 Currently Learning
+🚀 I enjoy building and deploying **REST APIs, scalable cloud applications, automation scripts and containerized applications**.
+
+🤖 Exploring **Generative AI, LLM applications and RAG-based systems**.
+
+🌱 Currently strengthening my knowledge in:
 
 - Kubernetes
 - Terraform
-- CI/CD Pipelines
+- CI/CD Automation
+- AWS Cloud Architecture
 - System Design
-- Generative AI
-- Large Language Models (LLMs)
+- Docker & Containerization
+- Generative AI & LLM Applications
 
-🎯 Career Interests
-
-- Software Engineering
-- Backend Development
-- Cloud Engineering
-- DevOps
-- Artificial Intelligence
-
-🤝 Open to
-
-- Software Engineer Roles
-- Backend Developer Roles
-- Cloud Engineer Roles
-- DevOps Engineer Roles
-- Internship Opportunities
+🎯 **Career Focus:** Software Engineering • Backend Development • Cloud Engineering • DevOps • SRE
 
 ---
 
-# 🛠 Tech Stack
+# 🧰 Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,bash,html,css"/>
 </p>
 
----
-
-## ⚙ Backend Development
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
 </p>
-
----
-
-## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 </p>
 
----
-
-## ☁ Cloud
+## ☁️ AWS & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
-
-AWS Services
-
-- EC2
-- S3
-- IAM
-- VPC
-- CloudWatch
-
----
-
-## 🚀 DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux" />
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EFS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
----
+## 🚀 DevOps & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux,nginx"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
+</p>
 
 ## 🤖 AI & Generative AI
 
-- OpenAI API
-- Prompt Engineering
-- LangChain
-- FAISS
-- Streamlit
-- Retrieval-Augmented Generation (RAG)
-- Hugging Face
-
----
-
-# 🚀 Featured Projects
-
-## 📦 Inventory Management Backend
-
-A secure RESTful Inventory Management API built with FastAPI.
-
-### Features
-
-- JWT Authentication
-- CRUD Operations
-- SQLAlchemy ORM
-- Inventory Tracking
-- SQLite Database
-- REST APIs
-
-**Tech Stack**
-
-FastAPI • SQLAlchemy • JWT • SQLite
-
-🔗 Repository
-
-https://github.com/vivek65666/inventory-management-backend
-
----
-
-## 🔗 URL Shortener
-
-A scalable URL shortening service built with Spring Boot.
-
-### Features
-
-- Generate Short URLs
-- Redirect URLs
-- REST APIs
-- MySQL Database
-
-**Tech Stack**
-
-Java • Spring Boot • MySQL
-
-🔗 Repository
-
-https://github.com/vivek65666/url-shortener
-
----
-
-## 🌦 Weather Forecast Application
-
-Full-stack weather application with real-time weather information.
-
-### Features
-
-- Search Weather
-- Live API Integration
-- Responsive UI
-- REST Backend
-
-**Tech Stack**
-
-Next.js • TypeScript • Express.js
-
----
-
-## ☁ AWS Static Website Hosting
-
-Hosted a static website using Amazon S3.
-
-### Features
-
-- Static Website Hosting
-- Bucket Policies
-- Public Access Configuration
-- IAM Configuration
-
-**Tech Stack**
-
-AWS S3 • IAM
-
-🔗 Repository
-
-https://github.com/vivek65666/aws-s3-static-website
-
----
-
-## 📋 Task Management System
-
-Task management backend for organizing projects and daily tasks.
-
-**Tech Stack**
-
-Java • Spring Boot • MySQL
-
-🔗 Repository
-
-https://github.com/vivek65666/task-management-system
-
----
-
-## 🤖 AI Operations Portfolio
-
-Collection of AI Prompt Engineering, Data Annotation and AI Quality Evaluation projects.
-
-**Highlights**
-
-- Prompt Engineering
-- AI Response Evaluation
-- Human-in-the-Loop
-- Data Annotation
-
-🔗 Repository
-
-https://github.com/vivek65666/AI-Operations-Portfolio
-
----
-
-# 🚀 Currently Working On
-
-- Backend APIs using FastAPI & Spring Boot
-- Kubernetes
-- Terraform
-- CI/CD Pipelines
-- AWS Cloud Projects
-- AI & RAG Applications
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek65666&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek65666&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek65666&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivek65666&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Advanced Spring Boot
-- Kubernetes
-- Terraform
-- Docker Compose
-- CI/CD Automation
-- AWS Best Practices
-- System Design
-- Data Structures & Algorithms
-
----
-
-# 📫 Connect With Me
-
 <p>
-
-💼 LinkedIn
-
-https://linkedin.com/in/vivek-c-raj
-
-💻 GitHub
-
-https://github.com/vivek65666
-
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
 
-# 💡 Fun Fact
+# ⭐ Featured Projects
 
-> "I enjoy transforming ideas into scalable software through backend engineering, cloud technologies, automation, and AI."
+## 🚀 1. CI/CD Pipeline for Java Application
 
----
+**End-to-end automated CI/CD pipeline for a Java Spring Boot application.**
 
-<p align="center">
+### 🔧 Pipeline
 
-⭐ If you like my work, consider starring my repositories!
-
-Thanks for visiting my profile! 😊
-
-</p>
+```text
+GitHub
+   │
+   ▼
+Jenkins
+   │
+   ├── Build
+   │
+   ├── Test
+   │
+   ▼
+SonarQube
+   │
+   ▼
+Nexus
+   │
+   ▼
+Docker
+   │
+   ▼
+Kubernetes
+   │
+   ▼
+Application Deployment
