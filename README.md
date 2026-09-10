@@ -351,7 +351,7 @@ Practical AI operations projects covering:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vivek65666/vivek65666/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/vivek65666/vivek65666/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
