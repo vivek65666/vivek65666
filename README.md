@@ -361,7 +361,7 @@ Practical AI operations projects covering:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vivek65666&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=vivek65666&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Profile Trophies" />
 
 </div>
 
@@ -371,7 +371,7 @@ Practical AI operations projects covering:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek65666&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek65666&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
 
 </div>
 
