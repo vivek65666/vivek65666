@@ -1,470 +1,67 @@
-[<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vivek C Raj
+====================================================================================================================================
 
-# 👋 Hi, I'm Vivek C Raj
+Software Engineer and Cloud & DevOps Engineer
+---------------------------------------------
 
-### `Software Engineer` • `Cloud & DevOps Enthusiast` • `Backend Developer` • `AI Explorer`
+Hi, I'm \*\*Vivek C Raj\*\*, an \*\*MCA graduate and aspiring Software Engineer\*\* based in Bengaluru, India.
 
-<p>
-  <a href="https://github.com/vivek65666">
-    <img src="https://img.shields.io/badge/GitHub-vivek65666-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/vivek-c-raj">
-    <img src="https://img.shields.io/badge/LinkedIn-Vivek_C_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:vivekcraj321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+I’m passionate about building practical software solutions and developing my skills across \*\*backend development, cloud computing, DevOps, and Generative AI\*\*. I enjoy learning new technologies by working on hands-on projects and exploring how software can be deployed, automated, and improved in real-world environments.
+
+\### 🛠️ Technologies & Tools
+
+\*\*Languages:\*\* Java, Python, JavaScript, Bash
+
+\*\*Backend:\*\* Spring Boot, REST APIs, Django, MySQL
+
+\*\*Cloud:\*\* AWS (EC2, S3, IAM, VPC, EFS, Elastic Beanstalk)
+
+\*\*DevOps:\*\* Docker, Jenkins, Kubernetes, Terraform, CI/CD
+
+\*\*Tools:\*\* Git, GitHub, Linux, VS Code
+
+\*\*AI:\*\* Generative AI, Prompt Engineering, RAG, Vector Databases, AI API Integration
+
+\### 🚀 What I Build
+
+I work on projects involving \*\*REST APIs, backend applications, cloud deployments, CI/CD pipelines, Linux automation, and AI-powered solutions\*\*. My goal is to gain deeper hands-on experience while building reliable and scalable applications.
+
+\### 🎯 Currently
+
+I’m focused on growing as a \*\*Software Engineer with strong Cloud & DevOps skills\*\*, while continuing to explore \*\*Generative AI and modern software engineering practices\*\*.
+
+I’m always open to learning, collaborating, and contributing to interesting projects.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://github.com/vivek65666](http://vivek-c-raj-portfolio.lovable.app)
+* ✉️  You can contact me at [vivekcraj321@gmail.com](mailto:vivekcraj321@gmail.com)
+* 🧠  I'm currently learning AWS, Kubernetes, Terraform, CI/CD, Linux, Spring Boot, and Generative AI.
+* 👥  I'm looking to collaborate on Open-source projects, backend development, Cloud & DevOps projects, automation, and Generative AI applications.
+* 💬  Ask me about I enjoy turning ideas into practical projects, learning new technologies, and continuously improving my software engineering skills.
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Cloud+%26+DevOps+Projects;Java+%7C+Spring+Boot+%7C+Python;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;Linux+%7C+Terraform+%7C+CI%2FCD;Exploring+Generative+AI+%26+AI+Automation" />
+### Socials
 
-<br>
+<p align="left"> <a href="https://www.github.com/vivek65666" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vivek-c-raj/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/vivek65666" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vivek65666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-<img src="https://komarev.com/ghpvc/?username=vivek65666&label=Profile%20Views&color=0e75b6&style=flat" />
+<b>My GitHub Stats</b>
 
-</div>
+<a href="http://www.github.com/vivek65666"><img src="https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vivek65666's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/vivek65666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek65666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 🚀 About Me
+<a href="https://github.com/vivek65666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek65666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-```yaml
-name: Vivek C Raj
-role: Aspiring Software / Cloud & DevOps Engineer
-education: MCA Final Year
-location: Bengaluru, India
+<b>Top Repositories</b>
 
-focus:
-  - Cloud Engineering
-  - DevOps & CI/CD
-  - Backend Development
-  - Linux & Automation
-  - Generative AI
+<div width="100%" align="center"><a href="https://github.com/vivek65666/https://github.com/vivek65666/employee-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=https://github.com/vivek65666/employee-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vivek65666/https://github.com/vivek65666/aws-s3-static-website-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=https://github.com/vivek65666/aws-s3-static-website-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-currently_learning:
-  - AWS
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - Terraform
-  - Spring Boot
-  - AI/LLM Applications
-```
+<br /><br /><br /><br /><br />
 
-I'm an **MCA Final Year student** focused on building practical software, cloud, and DevOps projects.
-
-I enjoy taking applications from **source code → automation → infrastructure → deployment**, while continuously improving my understanding of Linux, cloud platforms, containers, CI/CD, backend systems, and AI.
-
-### 🎯 Career Focus
-
-**Software Engineering · Backend Development · Cloud Engineering · DevOps · SRE · System Engineering · GenAI**
-
----
-
-# ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,bash,nginx,git,github" />
-
-</div>
-
-### 🔄 My DevOps Workflow
-
-```text
-        ┌─────────────┐
-        │   GitHub    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    Jenkins  │
-        │    CI/CD    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    Docker   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │     AWS     │
-        │ EC2 / S3 /  │
-        │ EFS / IAM   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    Nginx    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │ Application │
-        └─────────────┘
-```
-
----
-
-# 🧰 Technical Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,bash,html,css" />
-</p>
-
-### Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,flask,mysql" />
-</p>
-
-### Cloud / DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,nginx" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode" />
-</p>
-
-### AI / GenAI
-
-`LLMs` · `Prompt Engineering` · `RAG` · `Vector Databases` · `AI APIs` · `AI Evaluation` · `Human-in-the-Loop`
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vivek65666/url-shortener">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=url-shortener&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/vivek65666/linux-system-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=linux-system-monitor&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/vivek65666/aws-s3-static-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=aws-s3-static-website&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/vivek65666/BLOOM-Online-Flower-Shopping">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=BLOOM-Online-Flower-Shopping&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🔗 Project Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-### ☁️ URL Shortener
-
-**Java · Spring Boot · MySQL · AWS EC2**
-
-REST API backend deployed on AWS.
-
-* URL shortening
-* Redirect functionality
-* MySQL persistence
-* AWS EC2 deployment
-* IAM integration
-
-<a href="https://github.com/vivek65666/url-shortener">View Project →</a>
-
-</td>
-
-<td width="50%">
-
-### 🐧 Linux System Monitor
-
-**Bash · Linux · CLI Automation**
-
-Lightweight Linux monitoring utility.
-
-* CPU monitoring
-* Memory usage
-* Disk usage
-* Processes
-* Users
-* Network information
-
-<a href="https://github.com/vivek65666/linux-system-monitor">View Project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 AWS Static Website
-
-**AWS S3 · HTML · CSS**
-
-Cloud-hosted static website demonstrating:
-
-* S3 hosting
-* Bucket configuration
-* Cloud permissions
-* Website deployment
-
-<a href="https://github.com/vivek65666/aws-s3-static-website">View Project →</a>
-
-</td>
-
-<td width="50%">
-
-### 🌸 BLOOM
-
-**Django · Python · MySQL**
-
-Full-stack flower shopping platform.
-
-* Authentication
-* Products
-* Categories
-* Cart
-* Orders
-* Reviews
-* Admin functionality
-
-<a href="https://github.com/vivek65666/BLOOM-Online-Flower-Shopping">View Project →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🤖 AI & Computer Vision
-
-### ♻️ Smart Waste Segregation System
-
-**Python · YOLOv8 · OpenCV · Flask · NumPy**
-
-Computer vision application that detects and classifies waste from images.
-
-```text
-Image
-  ↓
-Preprocessing
-  ↓
-YOLOv8
-  ↓
-Object Detection
-  ↓
-Classification
-  ↓
-Confidence + Bounding Boxes
-  ↓
-Waste Category
-  ↓
-Segregation Recommendation
-```
-
-**Categories:**
-`Plastic` `Paper` `Metal` `Glass` `Organic` `E-Waste` `Others`
-
----
-
-### 🧠 AI Operations Portfolio
-
-**LLM Evaluation · Prompt Engineering · Data Quality · HITL**
-
-Practical AI operations projects covering:
-
-* AI response evaluation
-* Correctness
-* Clarity
-* Completeness
-* Grammar
-* Safety
-* Hallucination detection
-* Data annotation quality
-* Human-in-the-loop workflows
-* Evaluation SOPs
-
-<a href="https://github.com/vivek65666/AI-Operations-Portfolio">View AI Portfolio →</a>
-
----
-
-# 🏗️ Cloud Labs
-
-| Project                    | Technologies                                  |
-| -------------------------- | --------------------------------------------- |
-| **EC2 + Nginx Deployment** | AWS EC2 · Ubuntu · Nginx · Security Groups    |
-| **EFS Shared Storage**     | AWS EFS · EC2 · NFS                           |
-| **CI/CD Pipeline**         | AWS CodePipeline · Elastic Beanstalk · GitHub |
-| **Static Website**         | AWS S3 · HTML · CSS                           |
-| **Infrastructure as Code** | Terraform · AWS                               |
-| **Backend Deployment**     | Spring Boot · Maven · EC2                     |
-
----
-
-# 📚 Certifications
-
-### ☁️ Cloud & DevOps
-
-* **AWS Solutions Architect** — MicroDegree
-* **DevOps Engineer** — MicroDegree
-* **AWS Cloud Practitioner Essentials** — AWS Skill Builder
-* **Linux Fundamentals**
-* **Cisco Networking Basics** — Cisco Networking Academy
-
-### 🤖 AI
-
-* **Generative AI Engineer** — MicroDegree
-
-  `LLMs` · `Prompt Engineering` · `RAG` · `Vector Databases` · `AI API Integration`
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek65666&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vivek65666&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vivek65666/vivek65666/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivek65666&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Profile Trophies" />
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek65666&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-```text
-CLOUD
- ├── AWS
- │   ├── EC2
- │   ├── S3
- │   ├── IAM
- │   ├── VPC
- │   ├── EFS
- │   └── Elastic Beanstalk
- │
-DEVOPS
- ├── Git & GitHub
- ├── Jenkins
- ├── Docker
- ├── Kubernetes
- ├── Terraform
- └── CI/CD
- │
-BACKEND
- ├── Java
- ├── Spring Boot
- ├── REST APIs
- ├── MySQL
- └── Microservices Fundamentals
- │
-AI
- ├── LLMs
- ├── RAG
- ├── Prompt Engineering
- ├── Vector Databases
- └── AI Agents
-```
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build production-oriented cloud projects
-* ☁️ Deepen AWS architecture knowledge
-* 🔄 Build end-to-end CI/CD pipelines
-* 🐳 Strengthen Docker & Kubernetes
-* 🏗️ Automate infrastructure using Terraform
-* 🐧 Improve Linux administration & troubleshooting
-* ☕ Build stronger backend engineering skills
-* 🤖 Explore LLM applications and AI agents
-* 💼 Start my professional journey in Software / Cloud / DevOps
-
----
-
-# 💡 Engineering Mindset
-
-<div align="center">
-
-### **Build → Break → Debug → Automate → Deploy → Improve**
-
-</div>
-
-I believe the strongest way to learn engineering is to build real systems, troubleshoot real problems, understand how the pieces connect, and continuously improve.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/vivek65666">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/vivek-c-raj">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:vivekcraj321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Cloud • DevOps • Backend • Automation • AI**
-
-</div>
-](https://github.com/vivek65666/linux-sysadmin-project.)
+<div width="100%" align="center"><a href="https://github.com/vivek65666/https://github.com/vivek65666/CI-CD-Pipeline-for-Java-Application-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=https://github.com/vivek65666/CI-CD-Pipeline-for-Java-Application-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vivek65666/https://github.com/vivek65666/linux-sysadmin-project." align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek65666&repo=https://github.com/vivek65666/linux-sysadmin-project.&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
