@@ -169,18 +169,6 @@ Jain University, Bengaluru
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivek65666&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek65666&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
