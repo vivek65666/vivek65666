@@ -1,6 +1,6 @@
 # Hi, I'm Vivek C Raj 👋
 
-### Software Engineer | Backend Developer | Cloud & DevOps Enthusiast | AI Explorer
+### Software Engineer | Cloud & DevOps Enthusiast | AI Explorer
 
 I'm an MCA Graduated student with hands-on experience building backend
 applications, cloud infrastructure, CI/CD pipelines, and AI-focused projects.
