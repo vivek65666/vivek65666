@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Developer | Cloud & DevOps Enthusiast | AI Explorer
 
-I'm an MCA final-year student with hands-on experience building backend
+I'm an MCA Graduated student with hands-on experience building backend
 applications, cloud infrastructure, CI/CD pipelines, and AI-focused projects.
 
 I enjoy building practical projects and exploring how software engineering,
