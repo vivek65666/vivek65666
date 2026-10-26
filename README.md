@@ -8,7 +8,7 @@ applications, cloud infrastructure, CI/CD pipelines, and AI-focused projects.
 I enjoy building practical projects and exploring how software engineering,
 cloud platforms, automation, and AI can work together to solve real-world problems.
 
-- 🎓 MCA Final Year — Jain (Deemed-to-be University), Bengaluru
+- 🎓 MCA Graduated — Jain (Deemed-to-be University), Bengaluru
 - 💻 Interested in Software Engineering & Backend Development
 - ☁️ Exploring Cloud Computing & DevOps
 - 🚀 Hands-on with AWS, Docker, Jenkins, Kubernetes & Terraform
