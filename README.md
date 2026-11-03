@@ -199,7 +199,7 @@ Jain University, Bengaluru
 
 I'm currently focusing on strengthening my skills in:
 
-**Backend Development → Cloud → DevOps → AI**
+**Cloud → DevOps → AI**
 
 and building practical projects that demonstrate real-world software
 engineering and cloud deployment skills.
