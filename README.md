@@ -9,7 +9,7 @@ I enjoy building practical projects and exploring how software engineering,
 cloud platforms, automation, and AI can work together to solve real-world problems.
 
 - 🎓 MCA Graduated — Jain (Deemed-to-be University), Bengaluru
-- 💻 Interested in Software Engineering & Backend Development
+- 💻 Interested in Software Engineering & Cloud Engineer or Devops Engineer
 - ☁️ Exploring Cloud Computing & DevOps
 - 🚀 Hands-on with AWS, Docker, Jenkins, Kubernetes & Terraform
 - 🐧 Comfortable working with Linux, Git & GitHub
